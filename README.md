@@ -2,9 +2,9 @@ C++ Cache Simulator
 by Karanjot Singh
 
 Run:
-For Direct Mapped : DirectMapped.cpp
-For Fully Associative : FullyAssociative.cpp
-For Set Associative cache : SetAssociated.cpp
+For Direct Mapped : DirectMappedCache.cpp
+For Fully Associative : FullyAssociativeCache.cpp
+For Set Associative cache : SetAssociatedCache.cpp
 
 
 *****************************************************************
